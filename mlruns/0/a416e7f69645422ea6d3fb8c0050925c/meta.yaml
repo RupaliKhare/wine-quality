@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AWS/mlflow/mlflow-krish/wine-quality/mlruns/0/a416e7f69645422ea6d3fb8c0050925c/artifacts
+end_time: 1714396575721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a416e7f69645422ea6d3fb8c0050925c
+run_name: stylish-hound-46
+run_uuid: a416e7f69645422ea6d3fb8c0050925c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714396575604
+status: 4
+tags: []
+user_id: Admin

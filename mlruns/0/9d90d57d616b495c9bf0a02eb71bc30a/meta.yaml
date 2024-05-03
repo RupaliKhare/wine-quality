@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AWS/mlflow/mlflow-krish/wine-quality/mlruns/0/9d90d57d616b495c9bf0a02eb71bc30a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d90d57d616b495c9bf0a02eb71bc30a
+run_name: abrasive-ram-997
+run_uuid: 9d90d57d616b495c9bf0a02eb71bc30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714396685155
+status: 1
+tags: []
+user_id: Admin
